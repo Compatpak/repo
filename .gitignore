@@ -1,0 +1,11 @@
+# Flatpak builder
+*.flatpak-builder
+
+# Flatpak bundle
+*.flatpak
+
+# Flatpak build-dir
+/build-dir
+
+# KDE directory info
+.directory
